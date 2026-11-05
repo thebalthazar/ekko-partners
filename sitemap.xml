@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- ============ PORTUGUÊS ============ -->
+  <url><loc>https://ekkopartners.com/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ekkopartners.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ekkopartners.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ekkopartners.com/"/>
+    <changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://ekkopartners.com/solucoes/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ekkopartners.com/solucoes/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ekkopartners.com/en/solutions/"/>
+    <changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://ekkopartners.com/solucoes/fiagro/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ekkopartners.com/solucoes/fiagro/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ekkopartners.com/en/solutions/fiagro/"/>
+    <changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://ekkopartners.com/solucoes/fii/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ekkopartners.com/solucoes/fii/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ekkopartners.com/en/solutions/fii/"/>
+    <changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://ekkopartners.com/solucoes/cra/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ekkopartners.com/solucoes/cra/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ekkopartners.com/en/solutions/cra/"/>
+    <changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://ekkopartners.com/solucoes/cri/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ekkopartners.com/solucoes/cri/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ekkopartners.com/en/solutions/cri/"/>
+    <changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://ekkopartners.com/sobre/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ekkopartners.com/sobre/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ekkopartners.com/en/about/"/>
+    <changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ekkopartners.com/equipe/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ekkopartners.com/equipe/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ekkopartners.com/en/team/"/>
+    <changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ekkopartners.com/insights/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ekkopartners.com/insights/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ekkopartners.com/en/insights/"/>
+    <changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ekkopartners.com/insights/fundo-ou-securitizacao/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ekkopartners.com/insights/fundo-ou-securitizacao/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ekkopartners.com/en/insights/fund-or-securitization/"/>
+    <changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ekkopartners.com/contato/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ekkopartners.com/contato/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ekkopartners.com/en/contact/"/>
+    <changefreq>yearly</changefreq><priority>0.6</priority></url>
+
+  <!-- ============ ENGLISH ============ -->
+  <url><loc>https://ekkopartners.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ekkopartners.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ekkopartners.com/en/"/>
+    <changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://ekkopartners.com/en/solutions/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ekkopartners.com/solucoes/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ekkopartners.com/en/solutions/"/>
+    <changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ekkopartners.com/en/solutions/fiagro/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ekkopartners.com/solucoes/fiagro/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ekkopartners.com/en/solutions/fiagro/"/>
+    <changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ekkopartners.com/en/solutions/fii/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ekkopartners.com/solucoes/fii/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ekkopartners.com/en/solutions/fii/"/>
+    <changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ekkopartners.com/en/solutions/cra/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ekkopartners.com/solucoes/cra/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ekkopartners.com/en/solutions/cra/"/>
+    <changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ekkopartners.com/en/solutions/cri/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ekkopartners.com/solucoes/cri/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ekkopartners.com/en/solutions/cri/"/>
+    <changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ekkopartners.com/en/about/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ekkopartners.com/sobre/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ekkopartners.com/en/about/"/>
+    <changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ekkopartners.com/en/team/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ekkopartners.com/equipe/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ekkopartners.com/en/team/"/>
+    <changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://ekkopartners.com/en/insights/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ekkopartners.com/insights/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ekkopartners.com/en/insights/"/>
+    <changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ekkopartners.com/en/insights/fund-or-securitization/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ekkopartners.com/insights/fundo-ou-securitizacao/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ekkopartners.com/en/insights/fund-or-securitization/"/>
+    <changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://ekkopartners.com/en/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ekkopartners.com/contato/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ekkopartners.com/en/contact/"/>
+    <changefreq>yearly</changefreq><priority>0.5</priority></url>
+
+</urlset>
